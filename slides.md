@@ -9,6 +9,9 @@ drawings:
   persist: false
 
 layout: intro
+logoHeader: '/logo.png'
+twitter: ' '
+eventLogo: '/pixel.png'
 ---
 
 # Stellvertreterkriege
@@ -54,3 +57,8 @@ layout: new-section
 # El Salvador 🇸🇻
 
 
+---
+
+# Quellen
+
+- Weltkarte: [SVG-Datei](https://commons.wikimedia.org/wiki/File:AASM_operators.svg) (bearbeitet: [hier](/map/map.svg))
