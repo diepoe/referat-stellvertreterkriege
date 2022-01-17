@@ -10,7 +10,7 @@ drawings:
 
 layout: intro
 logoHeader: '/logo.png'
-twitter: ' '
+twitter: 'Marten, Moritz, Luca und Dietrich'
 eventLogo: '/pixel.png'
 ---
 
@@ -27,7 +27,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 # Agenda
 
-1. Allgemeine Übersicht
+1. Allgemeines
 2. Afghanistan
 3. Nicaragua
 4. El Salvador
@@ -38,6 +38,59 @@ layout: new-section
 
 # Allgemeines
 
+---
+layout: presenter
+presenterImage: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/RIAN_archive_21225_On_watch.jpg'
+---
+
+# Konflikte im Kalten Krieg
+
+- Lorem
+- Ipsum
+
+
+<!--Hier allgemeine Informationen-->
+
+---
+layout: text-image
+media: '/map/map.svg'
+---
+# Konfliktgebiete
+
+- Hier
+- noch
+- mehr
+- Stichpunkte
+
+---
+
+
+<v-click>
+  <img alt="Afghanistan auf der Weltkarte" src="/map/map-afghanistan.svg" class="map-zoom" />
+</v-click>
+<!--Switch zu Afghanistan via map-->
+
+<style>
+  /* Styling der Kartenanimation */
+  .map-zoom {
+    animation: zoom-in 3s ease-in;
+    animation-fill-mode: forwards;
+  }
+  @keyframes zoom-in {
+  0% {
+    transform: scale(1, 1);
+  }
+  20% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.4, 1.4) translate(-4%, 5%);
+  }
+  100% {
+    transform: scale(1.8, 1.8) translate(-8%, 10%);
+  }
+}
+</style>
 ---
 layout: new-section
 ---
