@@ -66,7 +66,7 @@ media: '/map/map.svg'
 
 
 <v-click>
-  <img alt="Afghanistan auf der Weltkarte" src="/map/map-afghanistan.svg" class="map-zoom" />
+ <img alt="Afghanistan auf der Weltkarte" src="/map/map-afghanistan.png" class="map-zoom" />
 </v-click>
 <!--Switch zu Afghanistan via map-->
 
