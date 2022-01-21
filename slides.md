@@ -95,6 +95,33 @@ layout: new-section
 # Afghanistan 🇦🇫
 
 ---
+
+<v-click>
+ <img alt="Nicaragua auf der Weltkarte" src="/map/map-nicaragua.png" class="map-zoom" />
+</v-click>
+<!--Switch zu Nicaragua via map-->
+
+<style>
+  /* Styling der Kartenanimation */
+  .map-zoom {
+    animation: zoom-in 4s ease-in;
+    animation-fill-mode: forwards;
+  }
+  @keyframes zoom-in {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.7, 1.7) translate(12%, 5%);
+  }
+  100% {
+    transform: scale(2.4, 2.4) translate(24%, 10%);
+  }
+}
+</style>
+
+
+---
 layout: new-section
 ---
 
