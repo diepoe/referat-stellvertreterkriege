@@ -73,21 +73,18 @@ media: '/map/map.svg'
 <style>
   /* Styling der Kartenanimation */
   .map-zoom {
-    animation: zoom-in 3s ease-in;
+    animation: zoom-in 4s ease-in;
     animation-fill-mode: forwards;
   }
   @keyframes zoom-in {
   0% {
     transform: scale(1, 1);
   }
-  20% {
-    transform: scale(1, 1);
-  }
   50% {
-    transform: scale(1.4, 1.4) translate(-4%, 5%);
+    transform: scale(1.6, 1.6) translate(-7.5%, 8%);
   }
   100% {
-    transform: scale(1.8, 1.8) translate(-8%, 10%);
+    transform: scale(2.2, 2.2) translate(-15%, 16%);
   }
 }
 </style>
