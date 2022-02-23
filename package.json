@@ -3,7 +3,7 @@
   "name": "referat-stellvertreterkriege",
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev --open",
+    "dev": "slidev --open --remote",
     "export": "slidev export"
   },
   "dependencies": {
