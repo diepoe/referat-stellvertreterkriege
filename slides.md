@@ -57,10 +57,10 @@ media: '/map/map.svg'
 ---
 # Konfliktgebiete
 
-- Hier
-- noch
-- mehr
-- Stichpunkte
+
+- Afghanistan
+- Nicaragua
+- El Salvador
 
 ---
 
