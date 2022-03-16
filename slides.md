@@ -1,6 +1,6 @@
 ---
 theme: penguin
-colorSchema: 'auto'
+colorSchema: "auto"
 # some information about the slides, markdown enabled
 info: |
   ## Geschichtsreferat Stellvertreterkriege
@@ -9,15 +9,14 @@ drawings:
   persist: false
 
 layout: intro
-logoHeader: '/logo.png'
-twitter: 'Marten, Moritz, Luca und Dietrich'
-eventLogo: '/pixel.png'
+logoHeader: "/logo.png"
+twitter: "Marten, Moritz, Luca und Dietrich"
+eventLogo: "/pixel.png"
 ---
 
 # Stellvertreterkriege
 
 Wie die Großen es im Kalten Krieg schafften, doch irgendwie Krieg gegeneinander zu führen
-
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
@@ -33,14 +32,16 @@ The last comment block of each slide will be treated as slide notes. It will be 
 4. El Salvador
 
 ---
-layout: new-section
----
+
+## layout: new-section
 
 # Allgemeines
 
 ---
+
 layout: presenter
 presenterImage: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/RIAN_archive_21225_On_watch.jpg'
+
 ---
 
 # Konflikte im Kalten Krieg
@@ -48,13 +49,15 @@ presenterImage: 'https://upload.wikimedia.org/wikipedia/commons/e/e2/RIAN_archiv
 - Lorem
 - Ipsum
 
-
 <!--Hier allgemeine Informationen-->
 
 ---
+
 layout: text-image
 media: '/map/map.svg'
+
 ---
+
 # Konfliktgebiete
 
 - Hier
@@ -63,7 +66,6 @@ media: '/map/map.svg'
 - Stichpunkte
 
 ---
-
 
 <v-click>
  <img alt="Afghanistan auf der Weltkarte" src="/map/map-afghanistan.png" class="map-zoom" />
@@ -88,9 +90,10 @@ media: '/map/map.svg'
   }
 }
 </style>
+
 ---
-layout: new-section
----
+
+## layout: new-section
 
 # Afghanistan 🇦🇫
 
@@ -120,10 +123,9 @@ layout: new-section
 }
 </style>
 
+---
 
----
-layout: new-section
----
+## layout: new-section
 
 # Nicaragua 🇳🇮
 
@@ -154,11 +156,124 @@ layout: new-section
 </style>
 
 ---
-layout: new-section
----
+
+## layout: new-section
 
 # El Salvador 🇸🇻
 
+---
+
+# Inhalt
+
+<ul>
+<li>Einführung El-Salvador </li>
+<li>Allgemeine Angaben zum Krieg</li>
+<li>Ablauf des Krieges</li>
+<ol>
+<li>Menschenrechtsverletzungen</li>
+<li>Folgen des Krieges</li>
+</ol>
+</ul>
+
+---
+
+# Einführung El-Salvador
+
+<ul>
+<li>kleinste Land Zentralamerikas</li>
+<li>grenzen zu Honduras, Guatemala, Pazifischer Ozean</li>
+</ul>
+
+<img src="./img-el-salvador/flag-of-El-Salvador.jpg" />
+<img src"./img-el-salvador/sansalvador-web.jpg" />
+
+---
+
+# Wann / Wie lange?
+
+<ul>
+<li>15. Oktober 1979 - 16. Januar 1992</li>
+<li>12 Jahre, 3 Monate, 1 Tag</li>
+</ul>
+
+---
+
+# Wer gegen wen?
+
+<ul>
+<li>Salvadorianische Regierung</li>
+<ol>
+<li>Junta Regierung (bis 1982)</li>
+<li>gewählte Regierung (ab 1982)</li>
+</ol>
+<li>Truppen</li>
+<ol>
+<li>Militär</li>
+<li>Todesschwadrohen</li>
+<li>Ausländischer Söldner</li>
+</ol>
+</ul>
+
+<img src="external-content.duckduckgo2.com.jpg" />
+
+---
+
+# Wer gegen wen?
+
+<ul>
+<li>FMLN</li>
+<ol>
+<li>
+Frente Farabundo Martí para la Liberactión Nacional
+<ul>
+<li>Nationale Befreiungsfront Farabundo Marti</li>
+</ul>
+</li>
+</ol>
+</ul>
+
+<img src="external-content.duckduckgo.com3.jpg" />
+
+---
+
+# Wer unterstützte wen?
+
+suiiii
+
+---
+
+# Vor dem Krieg
+
+<img src="" />
+
+---
+
+# Beginn und Verlauf
+
+<img src="" />
+
+---
+
+# Eindrücke aus dem Krieg
+
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+
+---
+
+# Menschenrechtsverletzungen
+
+<img src="" />
+
+---
+
+# Folgen
+
+<img src="" />
 
 ---
 
